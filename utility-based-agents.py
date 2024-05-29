@@ -2,7 +2,7 @@ import random
 import time
 class performance:
     def __init__(self):
-        self.score =0
+        self.score = 0
 
 
     def display(self):
